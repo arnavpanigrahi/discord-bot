@@ -1,7 +1,7 @@
 {
    "name": "Yennefer Bot",
    "description": "A discord bot.",
-   "repository": "https://github.com/arnavpanigrahi/discord-bot",
+   "repository": "https://github.com/quiet69/discord-bot",
    "logo": "https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png",
    "env": {
       "TOKEN": {
